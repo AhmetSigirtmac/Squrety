@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Squrety
+- 👋 Hi, I’m @AhmetSigirtmac
 - 🌿 I'm living in Turkey, and my English is not so good. 
 - 👀 I’m interested in: Software programs
 - 🌱 I’m currently learning: C#, SQL
